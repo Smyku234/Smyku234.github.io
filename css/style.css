@@ -38,6 +38,8 @@ color: #072b6f;
 font-size: 18px;
 padding: 17px 55px;
 margin-top: 33px;
+display: inline-block;
+text-decoration: none;
 }
 header small {
 	font-size: 12px;
@@ -140,6 +142,7 @@ footer {
 	font-size: 18px;
 	border-radius: 50px;
 	padding: 12px 40px;
+	text-decoration: none;
 }
 .footer-cta {
 	margin-bottom: 13px;
